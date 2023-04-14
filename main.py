@@ -9,8 +9,8 @@ except Exception as e:
 import sys
 
 
-from PySide2.QtCore import QCoreApplication, Qt
-from PySide2.QtWidgets import QApplication
+from PyQt5.QtCore import QCoreApplication, Qt
+from PyQt5.QtWidgets import QApplication
 
 from ApproximateController import ApproximateController
 from ApproximateModel import ApproximateModel
