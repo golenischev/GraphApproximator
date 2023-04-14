@@ -21,7 +21,7 @@
 Руководство пользователя:
 
 Скачайте и установите python3, pip. Откройте папку со скачанным проектом в Visual Studio Code, установите через терминал пакеты:
-pip3 install PySide2 PyQt5 pyqtgraph matplotlib numpy 
+pip3 install PyQt5 pyqtgraph matplotlib numpy 
 Может попросить что-то еще.
 
 Запустите программу.
